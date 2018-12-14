@@ -1,0 +1,2 @@
+# mvnproj
+Sample maven project
